@@ -1,0 +1,16 @@
+---
+title: "2025 reading"
+description: "let's test some methods to embed audio"
+author:
+  - name: Alex 
+    url: https://acostello34.github.io/portfolio
+date: last-modified
+categories: [reading] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Currently Reading
+
+* [Reamde by Neal Stephenson](https://en.wikipedia.org/wiki/Reamde)
+
+## Finished Books
