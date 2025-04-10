@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
+    "section": "",
+    "text": "2025 films\n\n\n\nfilm\n\n\n\nthoughts on films\n\n\n\nAlex\n\n\nApr 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n2025 reading\n\n\n\nreading\n\n\n\nlet’s test some methods to embed audio\n\n\n\nAlex\n\n\nApr 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\naudio\n\n\n\nmusic\n\n\n\nlet’s test some methods to embed audio\n\n\n\nAlex\n\n\nApr 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfirst post\n\n\n\nquarto\n\n\nR\n\n\nstats\n\n\ndata\n\n\n\nshort post description\n\n\n\nAlex\n\n\nDec 19, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023_12_19_first_post/index.html",
+    "href": "posts/2023_12_19_first_post/index.html",
+    "title": "first post",
+    "section": "",
+    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
+  },
+  {
+    "objectID": "posts/2023_12_19_first_post/index.html#heading-2",
+    "href": "posts/2023_12_19_first_post/index.html#heading-2",
+    "title": "first post",
+    "section": "",
+    "text": "Some bullets:\n\none\ntwo\nthree\n\nfour"
+  },
+  {
+    "objectID": "posts/2025 movies/index.html",
+    "href": "posts/2025 movies/index.html",
+    "title": "2025 films",
+    "section": "",
+    "text": "1 / 10 - not good"
+  },
+  {
+    "objectID": "posts/2025 movies/index.html#life-list",
+    "href": "posts/2025 movies/index.html#life-list",
+    "title": "2025 films",
+    "section": "",
+    "text": "1 / 10 - not good"
+  },
+  {
+    "objectID": "posts/2025 movies/index.html#princess-mononoke",
+    "href": "posts/2025 movies/index.html#princess-mononoke",
+    "title": "2025 films",
+    "section": "Princess Mononoke",
+    "text": "Princess Mononoke\n9 / 10 - Got to see this one in imax"
+  },
+  {
+    "objectID": "posts/2025 books/index.html",
+    "href": "posts/2025 books/index.html",
+    "title": "2025 reading",
+    "section": "",
+    "text": "Reamde by Neal Stephenson"
+  },
+  {
+    "objectID": "posts/2025 books/index.html#currently-reading",
+    "href": "posts/2025 books/index.html#currently-reading",
+    "title": "2025 reading",
+    "section": "",
+    "text": "Reamde by Neal Stephenson"
+  },
+  {
+    "objectID": "posts/2025 books/index.html#finished-books",
+    "href": "posts/2025 books/index.html#finished-books",
+    "title": "2025 reading",
+    "section": "Finished Books",
+    "text": "Finished Books"
+  },
+  {
+    "objectID": "posts/2024_05_27_testing_audio/index.html",
+    "href": "posts/2024_05_27_testing_audio/index.html",
+    "title": "audio",
+    "section": "",
+    "text": "This is an ambient piece from October 2023."
+  },
+  {
+    "objectID": "posts/2024_05_27_testing_audio/index.html#video",
+    "href": "posts/2024_05_27_testing_audio/index.html#video",
+    "title": "audio",
+    "section": "",
+    "text": "This is an ambient piece from October 2023."
+  },
+  {
+    "objectID": "posts/2024_05_27_testing_audio/index.html#audio",
+    "href": "posts/2024_05_27_testing_audio/index.html#audio",
+    "title": "audio",
+    "section": "audio",
+    "text": "audio\nRandom synth clip to test.\n\n\nAudio\naudio_testing"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexander Costello",
+    "section": "",
+    "text": "Welcome\nI currently live in Chicago\nI’m currently working as a data scientist in CPG people analytics\nI primarily use R for my work, but am proficient in SAS and familiar with Python / Lua\nI enjoy all things music\ncurrent interests:\n\nR / R shiny\nstatistics\nstochastic methods\nbayesian meth\nphilosophy\neconomic thought\nableton live\nmax msp\nmodular synthesizers\nvinyl records\nelektron workflow"
+  }
+]
